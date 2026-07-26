@@ -1,5 +1,7 @@
 # Ayuswasth - Indian Health & Wellness
 
+🔗 **Live Demo:** [https://leadspree-dev-official.github.io/ayuswasth-indian-health-wellness/](https://leadspree-dev-official.github.io/ayuswasth-indian-health-wellness/)
+
 A modern web application built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
