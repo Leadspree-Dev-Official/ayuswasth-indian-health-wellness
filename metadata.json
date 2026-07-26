@@ -1,0 +1,6 @@
+{
+  "name": "AyuSwasth - Indian Health & Wellness",
+  "description": "A modern Indian health and wellness platform integrating holistic Ayurveda, Prakriti diagnostic tools, personalized sattvic meal plans, yoga & pranayama routines, and AI holistic wellness guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

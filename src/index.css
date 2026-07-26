@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+  --brand-color: #92400e;
+  --brand-color-hover: #78350f;
+  --brand-color-light: #fef3c7;
+  --brand-color-border: #fcd34d;
+  --brand-color-text: #78350f;
+  --brand-color-rgb: 146, 64, 14;
+}
+
+.bg-brand {
+  background-color: var(--brand-color) !important;
+}
+
+.bg-brand-hover:hover {
+  background-color: var(--brand-color-hover) !important;
+}
+
+.text-brand {
+  color: var(--brand-color) !important;
+}
+
+.border-brand {
+  border-color: var(--brand-color) !important;
+}
+
+.bg-brand-light {
+  background-color: var(--brand-color-light) !important;
+}
+
+.ring-brand {
+  --tw-ring-color: var(--brand-color) !important;
+}
+
